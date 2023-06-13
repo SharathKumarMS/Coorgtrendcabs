@@ -70,7 +70,7 @@
     }
     .banner_main {
         padding: 152px 0px 0px 0px;
-        background-color: #cacaca !important;
+        background-color: #ffffff !important;
         background: inherit;
         min-height: 919px;
     }
@@ -124,7 +124,7 @@
 @media (min-width: 576px) and (max-width: 767px) {
     .banner_main {
         padding: 152px 0px 90px 0px;
-        background-color: #cacaca !important;
+        background-color: #ffffff !important;
         background: inherit;
     }
     .banner_slide {
@@ -207,7 +207,7 @@
     }
     .banner_main {
         padding: 152px 0px 90px 0px;
-        background-color: #cacaca !important;
+        background-color: #ffffff !important;
         background: inherit;
     }
     .banner_slide {
